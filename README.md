@@ -1,4 +1,5 @@
 # NASAExoplanetOOL
 Working with NASA Data Sets and Origin of Life Questions
 
-ExoplanetSearch.py - Script for getting NASA exoplanet data as a txt file and converting it to a csv file<br>
+Exoplanet1.ipynb - Preliminary look at data for confirmed exoplanets. <br>
+ExoplanetSearch.py - Script for getting NASA exoplanet data as a txt file and converting it to a csv file. <br>
